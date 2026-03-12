@@ -23,3 +23,5 @@
 <img width="148" height="176" alt="image" src="https://github.com/user-attachments/assets/663439e0-051b-4c9d-b3bb-cde8c640e2db" />
 
 구현 시 어려웠던 점
+버튼 간의 상호 작용과
+다른 버튼 들이 내가 원하고자 하는 버튼을 가려버리는 것을 처리하는 것이 힘들었다
