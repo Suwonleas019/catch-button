@@ -1,4 +1,5 @@
 using System.Collections.Specialized;
+using System.Media;
 
 namespace WinFormsApp_3
 {
@@ -16,6 +17,7 @@ namespace WinFormsApp_3
 
         private void target_MouseEnter(object sender, EventArgs e)
         {
+            SystemSounds.Beep.Play();
 
             Random rd = new Random();
 
@@ -32,7 +34,9 @@ namespace WinFormsApp_3
 
         private void target_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("나를 잡았구나 축하해!");
+            SystemSounds.Asterisk.Play();
+
+            MessageBox.Show("축하합니다!");
 
             
             Application.Exit();
