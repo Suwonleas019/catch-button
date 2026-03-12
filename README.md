@@ -17,3 +17,9 @@
 좌표 표시 코드를 지웠더니 정상 작동함
 <img width="779" height="464" alt="image" src="https://github.com/user-attachments/assets/c83585f3-e5d3-47fc-a3a4-c386b462d3b5" />
 (난이도 조절)
+<img width="773" height="471" alt="image" src="https://github.com/user-attachments/assets/c38db562-fb6e-442f-b629-51a7228c766f" />
+4 단계 스크린 샷
+<img width="781" height="455" alt="image" src="https://github.com/user-attachments/assets/9a8c690e-57fb-4bfd-8e13-385367282490" />
+<img width="148" height="176" alt="image" src="https://github.com/user-attachments/assets/663439e0-051b-4c9d-b3bb-cde8c640e2db" />
+
+구현 시 어려웠던 점
